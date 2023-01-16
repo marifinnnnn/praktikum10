@@ -9,13 +9,13 @@ Apa itu Python String ?</b>
 # String adalah urutan simbol yang terbatas yang dipilih dari himpunan yang disebut alfabet.
 
 
-*String adalah jenis yang paling populer di Python.
+* String adalah jenis yang paling populer di Python.
 
-*Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
+* Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
 
-*Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
+* Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
 
-*Membuat string semudah memberi nilai pada sebuah variabel.
+* Membuat string semudah memberi nilai pada sebuah variabel.
 
 # SOAL
 
@@ -102,8 +102,8 @@ methode replace() mengganti semua kemunculan string lama dengan yang baru atau p
 
 cara merubah hurup besar/kecil pada string yaitu menggunakan methode:
 
-*upper() untuk memperbesar
-*lower() untuk memperkecil
+* upper() untuk memperbesar
+* lower() untuk memperkecil
 
 contoh:
 
